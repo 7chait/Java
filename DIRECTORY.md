@@ -13,7 +13,7 @@
             * [MazeRecursion](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/MazeRecursion.java)
             * [NQueens](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/NQueens.java)
             * [Permutation](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/Permutation.java)
-            * [PowerSum](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/PowerSum.java)
+            * [PowerSum](https://github.com/TheAlgorithmkhjhs/Java/blob/master/src/main/java/com/thealgorithms/backtracking/PowerSum.java)
           * ciphers
             * a5
               * [A5Cipher](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/a5/A5Cipher.java)
